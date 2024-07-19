@@ -36,6 +36,7 @@ public class ProducerConfig {
 
     /**
      * 配置交换器和队列的绑定关系。
+     *
      */
     @Bean
     public void configureBindings() {
